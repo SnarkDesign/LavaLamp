@@ -1,0 +1,2 @@
+# LavaLamp
+Arduino Lava Lamp
